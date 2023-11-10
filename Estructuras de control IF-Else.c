@@ -11,7 +11,7 @@ public class EjemploIfElse {
             System.out.println("Enhorabuena!!");
             System.out.println("Has aprobado");
         } else {
-            System.out.println("Lo siento, has suspendido");                                                      
+            System.out.println("Lo siento, se ha quedado en Espera");                                                      
         }
         System.out.println("Hasta Pronto!");
     }
